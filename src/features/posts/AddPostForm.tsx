@@ -1,5 +1,3 @@
-import React from "react";
-
 import { nanoid } from "@reduxjs/toolkit";
 
 import { useAppDispatch } from "@/app/hooks";
