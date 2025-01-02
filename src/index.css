@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  overflow-x: hidden;
+}
+
+input {
+  border: 1px solid #6350f3;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+}
+input:focus {
+  outline: none;
+}
